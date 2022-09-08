@@ -41,7 +41,7 @@ function Footer() {
             </a>
             <a
               className="ml-4 text-gray-50"
-              href="https://www.linkedin.com/"
+              href="https://www.linkedin.com/company/projex-ifrs/"
               rel="noopener noreferrer"
               target="_blank"
             >

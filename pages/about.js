@@ -39,7 +39,7 @@ function about({ topics }) {
             <a
               rel="noopener noreferrer"
               target="_blank"
-              href="https://google.com/"
+              href="https://projex.digital"
             >
               Nosso site
             </a>
