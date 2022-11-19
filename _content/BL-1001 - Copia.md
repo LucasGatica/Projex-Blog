@@ -1,56 +1,32 @@
 ---
 Id: 1001
-Title: Sobre o Projex
+Title: Projex implantado no IFSul
 Author:  Marcos Mathies
 Tags: projex
 Topic: projex
-Abstract: O que é o ProjEx?
+Abstract: Produto educacional resultante de mestrado do IFRS foi implantado no IFSul
 HeaderImage: /BL-1001/image5.png
 isPublished: true
 ---
 
-## Sobre o ProjEx {#Sobre-o-Projex}
+## Produto educacional resultante de mestrado do IFRS foi implantado no IFSul {#Produto-educacional-resultante-de-mestrado-do-IFRS-foi-implantado-no-IFSul}
 
-**ProjEx (Projetos Exponenciais),é um Programa online de Transformação Digital de Projetos de Pesquisa/Extensão que visa apoiar pesquisadores no desenvolvimento de Soluções Tecnológicas Digitais Inovadoras à problemas Científicos Socialmente Relevantes investigados em pesquisas aplicadas.**
+ProjEx é uma solução tecnológica que organiza as etapas de projetos de pesquisa ou extensão 
 
+Pela primeira vez, um produto educacional do mestrado Profissional em Educação Profisssional e Tecnológica (ProfEPT) do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS) está sendo aplicado por uma instituição de ensino, via acordo de cooperação técnica.
 
+Denominado ProjEx (Projetos Exponenciais), é uma solução tecnológica que ao oferecer um curso de formação pedagógica sobre as Tecnologias Exponenciais, organiza as etapas de assimilação dessas tecnologias em projetos de pesquisa ou extensão por meio da utilização de uma planilha dinâmica; Estes projetos de pesquisa e extensão “exponenciais” são então divulgados em um portfólio digital. Esse material fica disponível para a comunidade externa, que poderá identificar e talvez se interessar por demandar os projetos como parceria.
 
-O Programa se estrutura sobre um calendário composto por atividades de capacitação, ideação, networking, fomento, desenvolvimento, consultorias e apresentação das soluções desenvolvidas nos Projetos Exponenciais, ao longo do programa.
-
-
-
-## Origem do ProjEx {#Origem-do-Projex}
-
-A Metodologia aplicada no ProjEx é oriunda do produto educacional resultado da dissertação “A Exponencialidade Tecnológica e as novas demandas do mundo do trabalho: Uma proposta à EPT” desenvolvido no Mestrado Profissional em Educação Profissional e Tecnológica (ProfEPT).
+O ProjEx foi desenvolvido pelo servidor Marcos Dias Mathies, do Campus Porto Alegre, e está sendo implantando no IFSul. O projeto foi orientado pelo professor Josimar Aparecido Vieira, do IFRS – Campus Sertão.
 
 
 
-## Resumo {#Resumo}
 
-O ProjEx é um programa que visa transformar o seu projeto de pesquisa ou extensão em uma solução tecnológica digital e inovadora!
+## Sobre a cooperação técnica {#Sobre-a-cooperação-técnica}
+
+A cooperação técnica com o IFSul prevê a oferta de um programa para implantação da metodologia ProjEx. Para isso, foi publicado um edital que prevê a capacitação de pesquisadores e a cessão de bolsas de pesquisa para o desenvolvimento dos projetos desenvolvidos durante o programa com aberturas das inscrições previstas para janeiro de 2023
+
+No IFRS, o projeto foi selecionado através do edital 21/2022 para desenvolver um portfólio digital das propostas que serão desenvolvidas pelos pesquisadores do IFSul no programa.
 
 
 
-## Objetivos {#Objetivos}
-
-### Geral
-
-Integrar a Rede Federal de Educação Tecnológica à Economia 4.0 e a Exponencialidade Tecnológica
-
-### Específicos
-
-* Ofertar curso de formação continada à pesquisadores e extensionistas da
-  Rede Federal de EPT sobre a Exponencialidade Tecnológica, a Economia 4.0 e seus impactos na Educação Profissional e Tecnológica
-
-* Promover a capacitação de pesquisadores e extensionistas à proposição de Projetos Exponenciais;
-
-* Oportunizar a formação empreendedora digital dos pesquisadores e  extensionistas da Rede Federal de EPT habilitando-os à Transformação Digital de Projetos de Pesquisa/Extensão.
-
-* Articular a apreensão crítica do Empreendedorismo Digital  no currículo da EPT enquanto Politecnia no contexto da Exponencialidade Tecnológica.
-
-* Oferecer oportunidades de imersão dos estudantes do IFSul para com o mundo do trabalho através da atuação em projetos de pesquisa aplicada por meio de experiências práticas de investigação científica com foco no desenvolvimento de STDIs.
-
-* Fortalecer e ampliar a relação entre os IFs e sociedade visando potencializar a vocação institucional dos Institutos Federais como indutores do desenvolvimento
-  regional, reforçando a articulação das atividades de ensino, pesquisa e extensão.
-
-* Validar o ProjEx enquanto metodologia viável de fomento à pesquisas aplicadas com foco no desenvolvimento de STDIs enquanto resultados da investigação de PCSRs oriundos da comunidade externa no contexto dado pelos APLs e da vocação produtiva das regiões.
